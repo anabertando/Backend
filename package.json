@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "condicionais.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anabertando/Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anabertando/Backend/issues"
+  },
+  "homepage": "https://github.com/anabertando/Backend#readme",
+  "description": ""
+}
